@@ -96,14 +96,19 @@ The **MNIST dataset** consists of 70,000 images of handwritten digits (0-9). The
     ```
 - An Example:
     <img src = "Assets/3.png" width=auto>
+    <br>
     **The image is predicted as: 3**
 
+---
 
 ## 📊 Model Performance
 
-- **Test Accuracy**: ~98%  
+- **Test Accuracy**: ~96.60%  
 - **Loss Reduction**: The model effectively minimizes loss over training epochs.  
 - **Prediction Examples**: The model correctly classifies digits from unseen test data.
+- **Confusion Matrix**:
+<img src="Assets/Confusion_Matrix.png"><br>
+
 
 ## 📸 Sample Results
 
