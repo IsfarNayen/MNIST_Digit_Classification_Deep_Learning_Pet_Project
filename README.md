@@ -24,7 +24,7 @@ The **MNIST dataset** consists of 70,000 images of handwritten digits (0-9). The
 
 | Input Image | Model Prediction |
 |-------------|-----------------|
-| <img src = "Assets/3.png" height = 35 , width = auto> | `3` |
+| <img src = "Assets/3.png" height = 35  width = auto> | `3` |
 
 *(More sample results are available in the notebook.)*
 
