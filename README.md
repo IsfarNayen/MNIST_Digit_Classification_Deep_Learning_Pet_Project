@@ -2,16 +2,21 @@
 
 This repository contains a deep learning project that classifies handwritten digits from the MNIST dataset using a neural network.
 
-## 📌 Project Overview
+## 📌 Project Overview and Dataset
 
 The **MNIST dataset** consists of 70,000 images of handwritten digits (0-9). The goal of this project is to train a **deep learning model** to accurately recognize and classify these digits.
 
+<img src = "https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png" width = auto>
+
 ## 🚀 Features
 
-- ✅ **Data Preprocessing** – Normalization and one-hot encoding  
+- ✅ **Data Preprocessing** – Normalization 
 - ✅ **Neural Network Model** – A simple feedforward network built with Keras  
 - ✅ **Training & Evaluation** – Model training with accuracy tracking  
 - ✅ **Visualization** – Display of training loss/accuracy and sample predictions  
+
+## Code details
+
 
 
 ## 📊 Model Performance
@@ -31,6 +36,7 @@ The **MNIST dataset** consists of 70,000 images of handwritten digits (0-9). The
 
 ## 📖 How to Use
 
+
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/IsfarNayen/MNIST_Digit_Classification_Deep_Learning_Pet_Project.git
@@ -48,5 +54,5 @@ The **MNIST dataset** consists of 70,000 images of handwritten digits (0-9). The
 - 📧 Email: isfar8953@gmail.com
 
 
-
+---
 ⭐ If you find this project useful, consider giving it a star! ⭐
