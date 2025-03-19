@@ -14,7 +14,7 @@ The **MNIST dataset** consists of 70,000 images of handwritten digits (0-9). The
 - ✅ **Neural Network Model** – A simple feedforward network built with Keras  
 - ✅ **Training & Evaluation** – Model training with accuracy tracking  
 - ✅ **Visualization** – Display of training loss/accuracy and sample predictions  
-
+---
 ## Code details
 
 - imported necessary libraries:
@@ -59,11 +59,11 @@ The **MNIST dataset** consists of 70,000 images of handwritten digits (0-9). The
 
 - Loading loss functions and dependencies:
     ```python
-        model.compile(
-            optimizer = 'adam',
-            loss = 'sparse_categorical_crossentropy',
-            metrics = ['accuracy']
-        )
+    model.compile(
+        optimizer = 'adam',
+        loss = 'sparse_categorical_crossentropy',
+        metrics = ['accuracy']
+    )
     ```
 
 - Training the model:
@@ -94,7 +94,8 @@ The **MNIST dataset** consists of 70,000 images of handwritten digits (0-9). The
     #The predicted result:
     print("The image is predicted as:" , input_prediction)
     ```
-- An Example: <br>
+- An Example: 
+    <br>
     <img src = "Assets/3.png" width=auto>
     <br>
     The image is predicted as: 3
@@ -109,7 +110,7 @@ The **MNIST dataset** consists of 70,000 images of handwritten digits (0-9). The
 - **Confusion Matrix**:
 <img src="Assets/Confusion_Matrix.png"><br>
 
-
+---
 ## 📸 Sample Results
 
 | Input Image | Model Prediction | Prediction |
