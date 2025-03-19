@@ -94,10 +94,10 @@ The **MNIST dataset** consists of 70,000 images of handwritten digits (0-9). The
     #The predicted result:
     print("The image is predicted as:" , input_prediction)
     ```
-- An Example:
+- An Example: <br>
     <img src = "Assets/3.png" width=auto>
     <br>
-    **The image is predicted as: 3**
+    The image is predicted as: 3
 
 ---
 
@@ -125,7 +125,7 @@ The **MNIST dataset** consists of 70,000 images of handwritten digits (0-9). The
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/IsfarNayen/MNIST_Digit_Classification_Deep_Learning_Pet_Project.git
-
+   ```
 
 2. **Open the Jupyter Notebook**
     Navigate to the repository folder and run:
@@ -135,6 +135,8 @@ The **MNIST dataset** consists of 70,000 images of handwritten digits (0-9). The
 3. **Run the notebook**
 
 ## 👤 About Me
+- LinkedIn: [Isfar Nayen](https://www.linkedin.com/in/isfar-nayen-0ba8ba341/)
+- Kaggle: [Isfar Nayen](https://www.kaggle.com/isfarnayen)
 - 🔗 GitHub: [Isfar Nayen](https://github.com/IsfarNayen)
 - 📧 Email: isfar8953@gmail.com
 
